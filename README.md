@@ -1,0 +1,1 @@
+# TableauHere, I have used IPL(Indian Premier League) dataset of year 2008 to 2017 and using this I have answered few questions asked in University assignment like Orange and Purple Cap Holder for each year, Highest number of 4s and 6s hit by player each year, Highest batting average, highest bowling average, Toss outcome Vs Match outcome, Team performance (Away Vs Home), etc.
